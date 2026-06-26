@@ -8,8 +8,6 @@
 
 > **AI isn't dangerous because it doesn't know — it's dangerous because it doesn't say it doesn't know.**
 
-![cover](ISG_card_01.png)
-
 ---
 
 ## TL;DR
