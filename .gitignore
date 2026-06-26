@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Thumbnails
+.com.apple.timemachine.donotpresent
+
+# Temp / junk files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+
+# Editor / IDE
+.vscode/
+.idea/
